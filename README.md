@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [Product preview card component on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Perfume preview card component on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ This is a solution to the [Product preview card component on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/lucasmeloc/product-preview-card-component-main)
-- Live Site URL: [Live Site](https://lucasmeloc.github.io/product-preview-card-component-main)
+- Solution URL: [Solution](https://github.com/lucasmeloc/perfume-preview-card-component-main)
+- Live Site URL: [Live Site](https://lucasmeloc.github.io/perfume-preview-card-component-main)
 
 ## My process
 
